@@ -1,11 +1,7 @@
-package main
+package form3_client_library
 
-import (
-    "fmt"
-)
-
-func main() { 
-    fmt.Println("Hello there")
+func Message() string {
+    return "Hello there"
 }
 
 
